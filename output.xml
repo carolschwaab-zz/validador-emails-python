@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="1" name="pytest" skips="0" tests="8" time="0.053"><testcase classname="test_submit.EmailValidTests" file="test_submit.py" line="94" name="test_eight" time="0.001039266586303711"></testcase><testcase classname="test_submit.EmailValidTests" file="test_submit.py" line="57" name="test_five" time="0.0"><failure message="AssertionError: Lists differ: [&apos;rase23@hach.com&apos;, &apos;daniyal@gmail.coma&apos;] != [&apos;rase23@hach.com&apos;]
+
+First list contains 1 additional elements.
+First extra element 1:
+&apos;daniyal@gmail.coma&apos;
+
+- [&apos;rase23@hach.com&apos;, &apos;daniyal@gmail.coma&apos;]
++ [&apos;rase23@hach.com&apos;]">E   AssertionError: Lists differ: [&apos;rase23@hach.com&apos;, &apos;daniyal@gmail.coma&apos;] != [&apos;rase23@hach.com&apos;]
+    
+    First list contains 1 additional elements.
+    First extra element 1:
+    &apos;daniyal@gmail.coma&apos;
+    
+    - [&apos;rase23@hach.com&apos;, &apos;daniyal@gmail.coma&apos;]
+    + [&apos;rase23@hach.com&apos;]</failure></testcase><testcase classname="test_submit.EmailValidTests" file="test_submit.py" line="44" name="test_four" time="0.001026153564453125"></testcase><testcase classname="test_submit.EmailValidTests" file="test_submit.py" line="5" name="test_one" time="0.0"></testcase><testcase classname="test_submit.EmailValidTests" file="test_submit.py" line="81" name="test_seven" time="0.0"></testcase><testcase classname="test_submit.EmailValidTests" file="test_submit.py" line="69" name="test_six" time="0.0010573863983154297"></testcase><testcase classname="test_submit.EmailValidTests" file="test_submit.py" line="28" name="test_three" time="0.0009572505950927734"></testcase><testcase classname="test_submit.EmailValidTests" file="test_submit.py" line="19" name="test_two" time="0.0010311603546142578"></testcase></testsuite>
